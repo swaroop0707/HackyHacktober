@@ -10,7 +10,7 @@ person = {
     'address': {
         "streetAddress": "21 2nd Street",
         "city": "New York",
-        "state": "NY",
+        "state": "New York",
         "postalCode": "10021-3100"
     }
 }
